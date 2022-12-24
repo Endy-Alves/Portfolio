@@ -183,7 +183,7 @@ button{
     padding-right: 1em;
 }
 
-@media (min-width: 367px) and (max-width: 1024px) {
+@media (min-width: 200px) and (max-width: 1024px) {
     .perfil{
         margin-left: 5px;
         width: 15em;
